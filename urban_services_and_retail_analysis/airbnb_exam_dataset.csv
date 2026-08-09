@@ -1,0 +1,221 @@
+listing_id,neighbourhood,room_type,price,minimum_nights,number_of_reviews,availability_365,reviews_per_month
+1,Bronx,Shared room,224,5,276,155,5.56
+2,Staten Island,Private room,324,6,197,48,2.18
+3,Queens,Entire home,259,5,69,336,4.72
+4,Staten Island,Shared room,108,5,111,83,2.89
+5,Staten Island,Entire home,86,4,3,360,0.73
+6,Brooklyn,Entire home,133,3,317,176,7.34
+7,Queens,Private room,277,3,94,147,1.09
+8,Queens,Shared room,243,4,151,117,7.6
+9,Queens,Shared room,439,9,310,341,3.57
+10,Staten Island,Private room,257,2,136,62,1.48
+11,Bronx,Private room,380,9,246,188,4.34
+12,Queens,Shared room,78,1,242,359,6.98
+13,Staten Island,Shared room,139,1,30,48,5.86
+14,Brooklyn,Private room,328,5,39,326,6.45
+15,Bronx,Entire home,1500,6,228,256,5.27
+16,Brooklyn,Entire home,261,6,35,223,5.54
+17,Bronx,Private room,396,3,222,140,6.79
+18,Staten Island,Entire home,62,7,5,214,2.0
+19,Manhattan,Private room,289,9,219,210,3.92
+20,Bronx,Entire home,49,8,74,317,1.77
+21,Brooklyn,Entire home,285,6,3,31,7.9
+22,Staten Island,Shared room,364,8,133,157,7.55
+23,Bronx,Shared room,139,5,117,284,0.32
+24,Manhattan,Entire home,329,8,93,304,5.64
+25,Manhattan,Entire home,219,4,61,285,7.4
+26,Queens,Shared room,262,8,193,143,1.44
+27,Queens,Shared room,433,2,202,18,4.54
+28,Brooklyn,Shared room,289,5,25,17,7.32
+29,Bronx,Private room,186,9,172,256,0.27
+30,Bronx,Entire home,135,4,299,77,5.58
+31,Queens,Shared room,296,6,132,174,2.38
+32,Bronx,Entire home,364,1,117,193,7.4
+33,Bronx,Private room,43,9,274,112,7.77
+34,Manhattan,Private room,55,1,211,113,7.55
+35,Queens,Shared room,319,5,224,221,3.79
+36,Staten Island,Private room,375,4,19,165,6.9
+37,Queens,Entire home,286,3,112,318,6.76
+38,Staten Island,Shared room,297,6,139,131,2.55
+39,Manhattan,Entire home,1200,2,46,263,6.63
+40,Brooklyn,Entire home,199,3,0,54,0.3
+41,Bronx,Private room,379,5,89,358,4.77
+42,Manhattan,Private room,191,9,141,130,1.84
+43,Bronx,Private room,435,2,319,287,0.96
+44,Brooklyn,Private room,217,8,37,265,0.62
+45,Brooklyn,Private room,202,2,292,161,5.57
+46,Manhattan,Shared room,419,5,138,86,2.72
+47,Brooklyn,Entire home,72,7,258,54,5.8
+48,Staten Island,Entire home,218,8,160,287,0.52
+49,Brooklyn,Entire home,140,1,177,177,2.52
+50,Bronx,Entire home,307,6,9,348,4.32
+51,Bronx,Private room,362,1,260,7,6.33
+52,Bronx,Entire home,104,2,137,320,2.55
+53,Bronx,Shared room,207,1,171,312,5.01
+54,Staten Island,Shared room,369,5,12,246,7.09
+55,Queens,Entire home,82,9,167,322,4.93
+56,Manhattan,Entire home,83,6,129,254,1.86
+57,Bronx,Shared room,324,1,83,327,0.2
+58,Brooklyn,Shared room,436,1,318,53,6.96
+59,Bronx,Private room,51,2,100,248,0.17
+60,Brooklyn,Shared room,134,9,272,238,7.0
+61,Brooklyn,Private room,341,3,264,228,4.23
+62,Bronx,Private room,425,1,37,66,7.51
+63,Staten Island,Private room,292,5,93,50,6.39
+64,Brooklyn,Private room,281,7,94,96,7.98
+65,Brooklyn,Private room,74,6,304,91,2.81
+66,Bronx,Entire home,254,1,68,263,6.14
+67,Brooklyn,Shared room,376,5,317,290,3.22
+68,Brooklyn,Private room,129,5,235,95,3.84
+69,Bronx,Shared room,303,6,136,87,5.02
+70,Bronx,Shared room,132,3,75,77,6.99
+71,Manhattan,Private room,449,5,34,287,7.87
+72,Staten Island,Entire home,129,7,0,119,6.15
+73,Staten Island,Private room,154,5,295,301,3.34
+74,Brooklyn,Entire home,144,5,319,164,3.37
+75,Staten Island,Shared room,430,5,59,181,5.9
+76,Brooklyn,Entire home,235,3,319,222,1.91
+77,Manhattan,Entire home,353,1,266,310,0.88
+78,Bronx,Entire home,153,5,228,6,2.84
+79,Bronx,Shared room,114,9,269,329,2.3
+80,Bronx,Shared room,415,1,315,262,2.37
+81,Staten Island,Entire home,256,3,285,160,1.87
+82,Manhattan,Entire home,316,4,290,150,0.34
+83,Staten Island,Private room,288,1,212,84,0.14
+84,Staten Island,Entire home,203,1,164,146,7.9
+85,Manhattan,Private room,433,8,4,111,3.42
+86,Manhattan,Entire home,396,2,77,35,3.07
+87,Manhattan,Private room,447,8,61,284,5.44
+88,Manhattan,Shared room,231,7,131,187,1.75
+89,Bronx,Entire home,266,2,88,81,7.6
+90,Queens,Entire home,216,6,236,1,6.29
+91,Queens,Entire home,138,6,41,302,0.72
+92,Manhattan,Entire home,75,3,88,196,3.34
+93,Queens,Private room,135,2,295,10,7.03
+94,Queens,Entire home,191,1,294,233,7.56
+95,Manhattan,Shared room,190,6,103,194,3.74
+96,Queens,Shared room,229,5,13,118,4.91
+97,Staten Island,Entire home,263,9,287,19,1.34
+98,Brooklyn,Shared room,76,1,178,260,7.93
+99,Brooklyn,Entire home,307,7,124,292,1.85
+100,Manhattan,Entire home,408,5,22,255,7.54
+101,Bronx,Shared room,222,5,62,221,5.2
+102,Manhattan,Entire home,52,2,142,225,4.86
+103,Bronx,Shared room,318,3,152,52,4.1
+104,Brooklyn,Private room,256,7,144,354,1.85
+105,Manhattan,Entire home,394,6,224,341,1.41
+106,Staten Island,Private room,400,2,308,363,1.76
+107,Queens,Shared room,325,6,103,279,1.49
+108,Bronx,Private room,312,2,103,80,6.24
+109,Queens,Private room,408,2,38,201,2.8
+110,Queens,Shared room,101,2,197,157,0.46
+111,Manhattan,Private room,123,3,133,119,7.75
+112,Queens,Private room,407,2,66,58,7.07
+113,Staten Island,Shared room,256,4,178,214,7.42
+114,Queens,Private room,381,9,41,127,7.96
+115,Manhattan,Shared room,436,6,14,223,1.39
+116,Staten Island,Private room,226,1,110,208,3.17
+117,Brooklyn,Shared room,58,8,156,114,6.07
+118,Queens,Shared room,216,7,288,208,5.57
+119,Manhattan,Private room,139,3,230,13,1.23
+120,Brooklyn,Private room,435,1,156,8,6.53
+121,Brooklyn,Private room,272,5,37,39,1.8
+122,Bronx,Entire home,442,4,96,236,1.79
+123,Staten Island,Entire home,115,8,288,280,4.3
+124,Queens,Entire home,304,1,253,358,4.74
+125,Manhattan,Shared room,323,1,195,200,4.64
+126,Bronx,Private room,245,4,85,245,0.73
+127,Staten Island,Shared room,262,8,9,277,7.02
+128,Bronx,Entire home,423,5,4,234,2.12
+129,Staten Island,Private room,91,2,122,3,1.04
+130,Staten Island,Shared room,378,6,117,153,7.11
+131,Queens,Private room,406,5,293,28,7.65
+132,Staten Island,Shared room,183,2,158,108,6.9
+133,Bronx,Private room,412,3,302,97,6.48
+134,Staten Island,Entire home,108,9,227,214,5.24
+135,Queens,Entire home,138,7,215,292,4.41
+136,Queens,Private room,435,7,183,74,0.7
+137,Bronx,Shared room,64,6,14,325,3.27
+138,Brooklyn,Entire home,418,8,156,145,2.98
+139,Brooklyn,Entire home,92,4,135,127,2.08
+140,Staten Island,Entire home,190,8,260,340,5.79
+141,Manhattan,Private room,900,4,156,41,3.97
+142,Staten Island,Private room,96,8,46,355,0.65
+143,Bronx,Shared room,78,9,172,40,1.76
+144,Bronx,Shared room,148,3,129,33,5.47
+145,Bronx,Shared room,220,3,94,16,0.61
+146,Bronx,Private room,81,2,114,164,6.81
+147,Bronx,Private room,225,3,242,152,3.96
+148,Queens,Shared room,437,3,291,75,3.84
+149,Brooklyn,Shared room,262,5,281,86,4.74
+150,Bronx,Private room,161,5,298,116,6.6
+151,Manhattan,Shared room,172,2,282,361,2.78
+152,Manhattan,Entire home,202,6,68,341,5.42
+153,Manhattan,Private room,254,5,147,26,4.53
+154,Manhattan,Shared room,260,6,10,312,2.14
+155,Queens,Private room,274,1,253,286,7.03
+156,Manhattan,Entire home,370,5,37,133,6.38
+157,Bronx,Private room,185,9,133,218,5.27
+158,Staten Island,Private room,278,2,199,167,6.8
+159,Manhattan,Private room,115,1,22,97,6.94
+160,Queens,Private room,48,9,302,267,5.67
+161,Queens,Entire home,113,9,301,236,6.7
+162,Manhattan,Private room,440,9,217,308,5.58
+163,Staten Island,Private room,292,6,140,172,5.44
+164,Manhattan,Shared room,269,8,103,189,4.95
+165,Queens,Private room,46,1,209,121,6.02
+166,Brooklyn,Shared room,213,4,110,45,1.27
+167,Bronx,Entire home,180,1,103,63,7.05
+168,Queens,Entire home,207,8,315,129,6.97
+169,Manhattan,Entire home,209,1,170,309,0.23
+170,Bronx,Entire home,432,3,132,362,6.61
+171,Manhattan,Shared room,322,4,292,192,1.03
+172,Manhattan,Private room,161,8,126,306,2.68
+173,Brooklyn,Entire home,233,6,105,180,5.95
+174,Bronx,Private room,44,7,91,291,1.29
+175,Bronx,Shared room,68,8,286,281,6.54
+176,Brooklyn,Shared room,204,2,50,28,6.66
+177,Queens,Shared room,378,8,28,148,4.06
+178,Manhattan,Entire home,175,3,295,266,0.05
+179,Staten Island,Private room,404,7,296,295,2.3
+180,Manhattan,Private room,360,3,213,10,4.94
+181,Manhattan,Private room,381,7,266,163,7.85
+182,Queens,Shared room,184,2,256,112,5.05
+183,Manhattan,Entire home,366,6,301,186,2.08
+184,Brooklyn,Shared room,256,3,100,294,5.07
+185,Brooklyn,Shared room,340,3,109,231,4.32
+186,Bronx,Private room,171,9,181,226,6.24
+187,Staten Island,Shared room,331,7,312,309,0.86
+188,Manhattan,Private room,109,5,0,97,6.09
+189,Manhattan,Entire home,291,7,318,54,4.33
+190,Queens,Private room,314,9,54,110,7.7
+191,Brooklyn,Entire home,403,1,148,151,2.73
+192,Staten Island,Private room,221,7,308,245,5.06
+193,Bronx,Shared room,206,6,136,68,7.46
+194,Brooklyn,Shared room,130,9,201,311,0.82
+195,Bronx,Entire home,241,1,312,288,7.5
+196,Queens,Entire home,385,4,116,249,5.5
+197,Queens,Entire home,58,9,153,35,0.54
+198,Manhattan,Private room,78,4,290,238,2.41
+199,Staten Island,Private room,165,3,62,147,5.67
+200,Bronx,Entire home,212,9,243,226,0.54
+201,Brooklyn,Shared room,180,2,24,243,4.66
+202,Queens,Private room,281,4,89,336,2.77
+203,Manhattan,Private room,259,6,74,364,4.97
+204,Manhattan,Private room,165,2,293,200,0.37
+205,Bronx,Entire home,97,8,209,153,6.97
+206,Queens,Entire home,187,8,16,72,7.79
+207,Staten Island,Entire home,356,1,127,200,7.75
+208,Queens,Entire home,422,3,250,295,6.0
+209,Bronx,Entire home,400,9,178,16,1.04
+210,Bronx,Shared room,40,5,181,128,6.07
+211,Queens,Shared room,426,6,151,216,0.2
+212,Bronx,Entire home,387,4,24,60,0.18
+213,Queens,Private room,229,2,179,103,2.59
+214,Brooklyn,Entire home,230,8,197,41,3.91
+215,Queens,Shared room,408,6,160,24,6.16
+216,Queens,Shared room,448,5,176,38,5.47
+217,Bronx,Private room,351,9,284,290,3.57
+218,Bronx,Shared room,156,1,62,130,2.19
+219,Manhattan,Entire home,173,5,149,228,7.98
+220,Manhattan,Private room,97,6,153,107,3.41
