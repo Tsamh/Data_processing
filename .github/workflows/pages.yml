@@ -1,4 +1,4 @@
-name: Publier le notebook sur GitHub Pages
+name: Publier les notebooks sur GitHub Pages
 
 on:
   push:
