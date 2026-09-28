@@ -164,7 +164,7 @@ PAGE = """<!doctype html>
 {cartes}
     </main>
     <footer>
-      Pages generees depuis les notebooks du depot
+      Trouvez les notebooks dans le repo
       <a href="https://github.com/Tsamh/Data_processing">Tsamh/Data_processing</a>.
     </footer>
   </div>
